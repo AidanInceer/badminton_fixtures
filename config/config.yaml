@@ -1,0 +1,78 @@
+avenue:
+  address: Hull and East Riding Sports Club, Hull Badminton Centre,Chanterlands Avenue North,Hull, HU5 4ED
+  days:
+    - Tuesday
+    - Friday
+  start_time: 19:30
+  end_time: 22:30
+  notes:
+  secretary: Tom Cockshutt
+beverley:
+  address: Beverley High School, Norwood,Beverley, HU17 9EX
+  days:
+    - Friday
+  start_time: 18.30
+  end_time: 20:30
+  notes: One match start 18.45 when two matches 18.30. Prompt start essential. Match Finish 20.55. See individual Match fixtures for times for that Match.
+  secretary: Tom Cockshutt
+beverley_beavers:
+  address: Beverley High School, Norwood,Beverley, HU17 9EX
+  days:
+    - Thursday
+
+  start_time: 19.00
+  end_time: 21:15
+  notes:
+  secretary: Kathryn Chambers
+east_riding:
+  address: Hull Badminton Centre,Hull and East Riding Sports Club, Chanterlands Avenue North, Hull, HU5 4ED
+  days:
+    - Wednesday
+    - Saturday
+  start_time: 19.00
+  end_time: 22:30
+  notes:
+  secretary: Kathryn Peachey
+hessle:
+  address: Haltemprice Leisure Centre, Springfield Way, Anlaby, East Yorkshire, HU10 6QJ
+  days:
+    - Tuesday
+  start_time: 20:00
+  end_time: 22:00
+  notes:
+  secretary: Jon Weir
+hull:
+  address: Hull Badminton Centre,Hull and East Riding Sports Club, Chanterlands Avenue North, Hull, HU5 4ED
+  days:
+    - Monday
+    - Thursday
+  start_time: 20:00
+  end_time: 22:30
+  notes:
+  secretary: Jamie Fulton
+south_wolds:
+  address: South Hunsley Sports Centre, HU14 3HS
+  days:
+    - Tuesday
+    - Thursday
+  start_time: 19:00
+  end_time: 22:00
+  notes:
+  secretary: Matt Pallot
+uni_campus:
+  address: University Sports & Fitness Centre, Inglemire Lane, Hull, HU6 7RX
+  days:
+    - Friday
+  start_time: 19:00
+  end_time: 22:00
+  notes: Matches must start promptly with 2 courts 7.00-7.45pm then 1 until 9.15 then 2 until 10.00pm
+  secretary: Roger Pittaway
+uni_students:
+  address: University Sports Hall (The Beacon), Inglemire Lane, Hull, HU6 7RX
+  days:
+    - Thursday
+  time: 20:00-22:00pm
+  start_time: 20:00
+  end_time: 22:00
+  notes:
+  secretary: Cameron Tough
